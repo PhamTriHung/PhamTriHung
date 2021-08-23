@@ -1,6 +1,6 @@
 ### Hello World! I'm Hung :wave:
 
-## A Web Developer and student at TDTU
+# A Web Developer and student at TDTU
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri-hung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
