@@ -3,7 +3,7 @@
 # A Web Developer and student at TDTU
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tri-hung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fat-wolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=white)
