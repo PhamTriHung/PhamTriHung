@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-167-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,5 +71,5 @@ VS Code                  25 mins             ███████████�
 ```
 
 
- Last Updated on 16/02/2022 18:45:39 UTC
+ Last Updated on 17/02/2022 18:46:30 UTC
 <!--END_SECTION:waka-->
