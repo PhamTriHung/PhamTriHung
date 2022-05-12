@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/05/2022 18:51:15 UTC
+ Last Updated on 12/05/2022 18:53:22 UTC
 <!--END_SECTION:waka-->
