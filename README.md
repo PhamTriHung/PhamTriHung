@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,17 +61,13 @@ Sunday       28 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████████████████░░░░░   81.28% 
-HTML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/06/2022 18:53:03 UTC
+ Last Updated on 24/06/2022 18:50:11 UTC
 <!--END_SECTION:waka-->
