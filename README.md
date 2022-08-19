@@ -18,9 +18,9 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2022 18:51:32 UTC
+ Last Updated on 19/08/2022 18:53:25 UTC
 <!--END_SECTION:waka-->
