@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,7 +26,7 @@
 
 > 🏆 111 Contributions in the Year 2022
  > 
-> 📦 14.4 kB Used in GitHub's Storage 
+> 📦 14.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,15 +61,16 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       █████████████████████████   99.93% 
-Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Python                   6 hrs 59 mins       █████████████████████████   99.53% 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/10/2022 18:55:24 UTC
+ Last Updated on 03/10/2022 19:01:06 UTC
 <!--END_SECTION:waka-->
