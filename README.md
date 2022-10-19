@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,7 +61,8 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 59 mins        █████████████████████████   99.94% 
+Python                   1 hr 59 mins        ████████████████████████░   99.48% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
@@ -70,5 +71,5 @@ VS Code                  2 hrs               ███████████�
 ```
 
 
- Last Updated on 18/10/2022 19:05:07 UTC
+ Last Updated on 19/10/2022 19:08:27 UTC
 <!--END_SECTION:waka-->
