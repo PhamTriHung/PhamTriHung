@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -61,15 +61,17 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ████████████████████████░   96.92% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
+Python                   2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.07% 
+PHP                      1 hr 58 mins        ███████████░░░░░░░░░░░░░░   45.34% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
+Puppet                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 22 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/11/2022 18:51:24 UTC
+ Last Updated on 04/11/2022 18:50:03 UTC
 <!--END_SECTION:waka-->
