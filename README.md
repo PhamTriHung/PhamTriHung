@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -26,7 +26,7 @@
 
 > 🏆 111 Contributions in the Year 2022
  > 
-> 📦 14.4 kB Used in GitHub's Storage 
+> 📦 14.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,14 +61,16 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 39 mins        █████████████████░░░░░░░░   71.05% 
-Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   28.95%
+C#                       4 hrs 19 mins       ██████████████░░░░░░░░░░░   57.52% 
+Other                    2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   30.18% 
+SQL                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
 
 🔥 Editors: 
-Visual Studio            2 hrs 20 mins       █████████████████████████   100.0%
+Visual Studio            6 hrs 35 mins       ██████████████████████░░░   87.7% 
+Ssms                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.3%
 
 ```
 
 
- Last Updated on 16/11/2022 18:47:57 UTC
+ Last Updated on 17/11/2022 18:47:56 UTC
 <!--END_SECTION:waka-->
