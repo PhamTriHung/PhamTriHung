@@ -18,9 +18,9 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E&color=white)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,5 +76,5 @@ Android Studio           32 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/12/2022 18:44:29 UTC
+ Last Updated on 10/12/2022 18:42:52 UTC
 <!--END_SECTION:waka-->
