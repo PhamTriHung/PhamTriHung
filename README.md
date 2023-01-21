@@ -29,7 +29,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -37,7 +37,7 @@
 
 > 🏆 23 Contributions in the Year 2023
  > 
-> 📦 38.3 kB Used in GitHub's Storage 
+> 📦 38.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,17 +72,17 @@ Sunday       31 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 5 mins        █████████████████████░░░░   83.68% 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
-CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+TypeScript               8 hrs 5 mins        ████████████████████░░░░░   82.64% 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
+Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/01/2023 18:43:27 UTC
+ Last Updated on 21/01/2023 18:41:16 UTC
 <!--END_SECTION:waka-->
