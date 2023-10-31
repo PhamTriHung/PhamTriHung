@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/10/2023 18:39:32 UTC
+ Last Updated on 31/10/2023 18:38:54 UTC
 <!--END_SECTION:waka-->
