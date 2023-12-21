@@ -26,15 +26,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 146.2 kB Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,12 +65,13 @@ Sunday                   50 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               18 mins             ████████████████████████░   96.22 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/12/2023 18:38:55 UTC
+ Last Updated on 21/12/2023 18:38:33 UTC
 <!--END_SECTION:waka-->
