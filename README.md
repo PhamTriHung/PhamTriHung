@@ -67,12 +67,12 @@ Sunday                   50 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2023 18:38:26 UTC
+ Last Updated on 31/12/2023 18:38:32 UTC
 <!--END_SECTION:waka-->
