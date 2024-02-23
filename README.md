@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -67,12 +67,14 @@ Sunday                   50 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     10 mins             █████████████████████████   98.97 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2024 18:38:21 UTC
+ Last Updated on 23/02/2024 18:38:31 UTC
 <!--END_SECTION:waka-->
