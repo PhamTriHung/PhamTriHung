@@ -26,13 +26,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 146.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,15 +67,14 @@ Sunday                   50 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     4 hrs 23 mins       ███████████████████████░░   93.43 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Dart                     5 hrs 25 mins       █████████████████████████   98.47 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Android Studio           4 hrs 41 mins       █████████████████████████   100.00 % 
+Android Studio           5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2024 18:39:58 UTC
+ Last Updated on 17/03/2024 18:38:46 UTC
 <!--END_SECTION:waka-->
