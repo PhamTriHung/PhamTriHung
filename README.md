@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Vue.js       16 hrs 34 mins  █████████████████░░░░░░░░   68.32 %
-JSON         3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-JavaScript   3 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Vue.js       14 hrs 29 mins  █████████████████▒░░░░░░░   69.86 %
+JSON         3 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+JavaScript   1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Bash         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
