@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-No activity tracked
+CSV        24 mins               ███████████▒░░░░░░░░░░░░░   44.79 %
+Python     22 mins               ██████████▒░░░░░░░░░░░░░░   41.06 %
+Other      5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+JSON       2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
