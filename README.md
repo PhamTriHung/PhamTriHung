@@ -28,12 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Python      1 hr 56 mins          ███████████▓░░░░░░░░░░░░░   46.38 %
-Markdown    1 hr 47 mins          ██████████▓░░░░░░░░░░░░░░   42.77 %
-Other       25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Batchfile   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python      2 hrs 52 mins         ███████████████▓░░░░░░░░░   62.24 %
+Markdown    1 hr 42 mins          █████████▒░░░░░░░░░░░░░░░   37.03 %
+Batchfile   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
